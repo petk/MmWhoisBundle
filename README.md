@@ -35,7 +35,7 @@ public function registerBundles()
 {
     $bundles = array(
         // ...
-        new Mm\WhoisBundle\MaastermediaWhoisBundle(),
+        new Mm\WhoisBundle\MmWhoisBundle(),
     );
 }
 ```
