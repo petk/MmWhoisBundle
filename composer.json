@@ -1,0 +1,31 @@
+{
+    "name": "mm/whois-bundle",
+    "type": "symfony-bundle",
+    "description": "Symfony whois queries bundle",
+    "keywords": ["whois"],
+    "homepage": "http://github.com/peterkokot/MmWhoisBundle",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Peter Kokot",
+            "email": "peterkokot@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.3.2",
+        "symfony/framework-bundle": "2.1.*",
+        "symfony/security-bundle": "2.1.*"
+    },
+    "require-dev": {
+        "twig/twig": "*",
+        "doctrine/doctrine-bundle": "*",
+        "swiftmailer/swiftmailer": "*",
+        "symfony/yaml": "2.1.*",
+        "symfony/validator": "2.1.*"
+    },
+    "autoload": {
+        "psr-0": { "Mm\\WhoisBundle": "" }
+    },
+    "target-dir": "Mm/WhoisBundle"
+}

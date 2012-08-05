@@ -1,0 +1,8 @@
+MmWhoisBundle_homepage:
+    pattern:  /whois
+    defaults: { _controller: MmWhoisBundle:Default:index }
+
+MmWhoisBundle_check:
+    pattern:  /whois/check
+    defaults: { _controller: MmWhoisBundle:Default:check }
+

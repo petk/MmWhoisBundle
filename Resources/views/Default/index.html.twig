@@ -1,0 +1,11 @@
+<h1>{% trans %}Whois{% endtrans %}</h1>
+
+
+<form action="{{ path('domain_whois') }}" method="post" {{ form_enctype(form) }}>
+    <input type="text" name="domain" />.<select name="tld">
+        <option value="com">com</option>
+        <option value="org">org</option>
+    </select>
+    
+    <input type="submit" value="{% trans %}Submit{% endtrans %}" />
+</form>

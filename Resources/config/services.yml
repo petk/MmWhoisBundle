@@ -1,0 +1,7 @@
+parameters:
+#    mm_whois.example.class: Mm\WhoisBundle\Example
+
+services:
+#    mm_whois.example:
+#        class: %mm_whois.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
