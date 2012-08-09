@@ -7,7 +7,10 @@ class DomainName
     protected $name;
     protected $identifier;
 
-    public getName()
+    /**
+     * gets domain name
+     */ 
+    public function getName()
     {
         return $this->name;
     }
@@ -17,6 +20,9 @@ class DomainName
         $this->name = $name;
     }
 
+    /**
+     * gets domain identifier (com, net, org ...)
+     */
     public function getIdentifier()
     {
         return $this->identifier;

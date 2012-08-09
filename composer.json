@@ -3,7 +3,7 @@
     "type": "symfony-bundle",
     "description": "Symfony whois queries bundle",
     "keywords": ["whois"],
-    "homepage": "http://github.com/peterkokot/MmWhoisBundle",
+    "homepage": "http://github.com/maastermedia/MmWhoisBundle",
     "license": "MIT",
     "authors": [
         {

@@ -1,7 +1,7 @@
 MmWhoisBundle
 =======================
 
-[![Build Status](https://secure.travis-ci.org/peterkokot/MmWhoisBundle.png?branch=master)](http://travis-ci.org/peterkokot/MmWhoisBundle)
+[![Build Status](https://secure.travis-ci.org/maastermedia/MmWhoisBundle.png?branch=master)](http://travis-ci.org/maastermedia/MmWhoisBundle)
 
 Symfony2 whois queries bundle
 
