@@ -12,7 +12,7 @@ Add MmWhoisBundle in your composer.json:
 ```js
 {
     "require": {
-        "mm/whois-bundle": "*"
+        "maastermedia/whois-bundle": "*"
     }
 }
 ```
