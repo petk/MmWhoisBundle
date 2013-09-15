@@ -1,7 +1,7 @@
 {
-    "name": "mm/whois-bundle",
+    "name": "maastermedia/whois-bundle",
     "type": "symfony-bundle",
-    "description": "Symfony whois queries bundle",
+    "description": "Symfony2 whois queries bundle",
     "keywords": ["whois"],
     "homepage": "http://github.com/maastermedia/MmWhoisBundle",
     "license": "MIT",
