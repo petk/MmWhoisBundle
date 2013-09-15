@@ -20,7 +20,13 @@ Add MmWhoisBundle in your composer.json:
 Now tell composer to download the bundle by running the command:
 
 ``` bash
-$ php composer.phar update mm/whois-bundle
+$ php composer.phar update maastermedia/whois-bundle
+```
+
+or use `require`
+
+```bash
+$ php composer.phar require maastermedia/whois-bundle
 ```
 
 ## Step 2: Enable the bundle
