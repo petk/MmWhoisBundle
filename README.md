@@ -9,7 +9,7 @@ Symfony2 whois queries bundle
 
 Add MmWhoisBundle in your composer.json:
 
-```js
+```json
 {
     "require": {
         "maastermedia/whois-bundle": "*"
