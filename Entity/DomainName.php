@@ -2,6 +2,7 @@
 
 namespace Mm\WhoisBundle\Entity;
 
+
 class DomainName
 {
     protected $name;
